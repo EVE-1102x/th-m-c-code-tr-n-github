@@ -1,5 +1,7 @@
-npx creact-react-app gfg <- cmd install react
+npx creact-react-app gfg <- cmd install react.js
 npm view react version <- cmd check react version
+
+npx creact-next-app <- cmd install next.js
 
 Some git commom line you should know:
 => 1. Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
