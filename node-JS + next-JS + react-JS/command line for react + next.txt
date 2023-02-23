@@ -1,8 +1,10 @@
 npx creact-react-app gfg <- cmd install react.js
 npm view react version <- cmd check react version
 
-npx creact-next-app <- cmd install next.js
+npx create-next-app <- cmd install next.js
+
 
 Some git commom line you should know:
 => 1. Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
 => 2. Set your email address: git config --global user.email "MY_NAME@example.com"
+=> 3. git add <File name> 
